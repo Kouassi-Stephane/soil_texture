@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environnement virtuel
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Fichiers temporaires
+*.log
+*.dat
+
+# Autres fichiers spécifiques
+*.sqlite3
+*.db
